@@ -1,1 +1,2 @@
-#cgwy-backend
+#cgwy-backend distributed
+Git is free software.
