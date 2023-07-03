@@ -17,3 +17,6 @@ npm install --global --production windows-build-tools
 
 mvn
 archetypeCatalog=internal
+
+mvn clean install -Dmaven.test.skip
+mvn dependency:resolve-plugins
